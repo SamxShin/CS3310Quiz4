@@ -10,7 +10,7 @@ public class PeaksAndValleys {
         long start, end, duration, totalDur = 0;
 
         PeaksAndValleys pv = new PeaksAndValleys();
-        //showing that the algorithm does make it peaks and valleys
+        //showing that the algorithm does make peaks and valleys
         int[] arr = {4,3,7,1,1,7,4,7,0,6};
         int len = arr.length;
         pv.peakAndValley(arr, len);
