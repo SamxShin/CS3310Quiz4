@@ -18,8 +18,6 @@ public class PeaksAndValleys {
             System.out.print(arr[i] + " ");
 
         //test case for array size 100
-        for(int i = 0; i < len; i++)
-            System.out.print(arr[i] + " ");
         for(int i = 0; i < 100; i++){
             int arr100[] = list(100);
             int len100 = arr100.length;
